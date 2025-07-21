@@ -137,7 +137,7 @@ const Contact = () => {
 
             {/* Right Side - Logo */}
             <motion.img
-              src="./src/assets/logo1-removebg-preview.png" // Replace with the actual image path
+{/*               src="./src/assets/logo1-removebg-preview.png" // Replace with the actual image path */}
               alt="Logo"
               className="w-32 h-32 object-contain ml-auto" // Ensure it aligns to the right
               initial={{ opacity: 0, x: 50 }}
